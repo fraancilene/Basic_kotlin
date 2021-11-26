@@ -1,1 +1,10 @@
-/out/
+- Kotlin: baseada nas linguagens: Java, Scala, Groovy e C#
+- linguagem concisa
+- segura
+- teroperável
+    * utilizar codigos javas dentro do kotlin e vice-versa
+    * Migração mais tranquila
+
+Processo de execução Kotlin
+
+arquivo.kt ----> compilador ----> Bytecode (.class) -----> jvm (SOs)
